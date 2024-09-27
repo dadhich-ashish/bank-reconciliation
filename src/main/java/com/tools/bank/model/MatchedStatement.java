@@ -1,5 +1,5 @@
 
-package com.tools.bank;
+package com.tools.bank.model;
 
 public class MatchedStatement {
 

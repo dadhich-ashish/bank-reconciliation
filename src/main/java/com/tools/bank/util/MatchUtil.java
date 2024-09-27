@@ -4,9 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
-import com.tools.bank.BankStatement;
-import com.tools.bank.MatchedStatement;
-import com.tools.bank.TallyStatement;
+import com.tools.bank.model.BankStatement;
+import com.tools.bank.model.MatchedStatement;
+import com.tools.bank.model.TallyStatement;
 
 public class MatchUtil {
 
