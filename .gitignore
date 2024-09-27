@@ -1,0 +1,33 @@
+# Ignore Java class files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore package files
+*.jar
+*.war
+*.ear
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+*.iml
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore build directories
+/bin/
+/build/
+/target/
+
+# Ignore dependency directories
+/node_modules/
+/out/
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.swo
