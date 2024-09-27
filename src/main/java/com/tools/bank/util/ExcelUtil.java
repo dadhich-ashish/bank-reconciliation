@@ -18,8 +18,8 @@ import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
-import com.tools.bank.BankStatement;
-import com.tools.bank.TallyStatement;
+import com.tools.bank.model.BankStatement;
+import com.tools.bank.model.TallyStatement;
 
 public class ExcelUtil {
 

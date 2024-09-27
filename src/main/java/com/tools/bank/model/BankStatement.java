@@ -1,4 +1,4 @@
-package com.tools.bank;
+package com.tools.bank.model;
 
 import java.util.Date;
 
